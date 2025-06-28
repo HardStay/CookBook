@@ -41,5 +41,4 @@ fastlane/test_output
 *.swiftsourceinfo
 
 # Ignore Info.plist and GoogleService-Info.plist everywhere
-**/Info.plist
 **/GoogleService-Info.plist

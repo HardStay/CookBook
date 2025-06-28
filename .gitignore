@@ -42,3 +42,6 @@ fastlane/test_output
 
 # Ignore Info.plist and GoogleService-Info.plist everywhere
 **/GoogleService-Info.plist
+
+# Ignore software documentation
+SOFTWARE_DOCUMENTATION.md
